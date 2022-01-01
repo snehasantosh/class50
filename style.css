@@ -1,0 +1,17 @@
+.header{
+
+  background-color: coral;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1{
+color: white;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
